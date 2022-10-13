@@ -9,5 +9,5 @@ For empirical rejection frequency table, run size_table_output.m
 
 For the power graphs, run power_graphs.m
 
-The empirical simulation file has two codes to run: replication_empirical_mKLM_CLR_MCLR_tHLI_JAK.m and power_empirical_mKLM_CLR_MCLR_tHLI_JAK.m. The first generates size tables, and the second generates power curves for the simulated data, which is based on the Angrist and krueger (1991) dataset. The STATA file creates the simulated dataset from the original dataset, simulation_AK91_no_ZW_homolinear_tenth.dat. 
+The empirical simulation file has two codes to run: replication_empirical_mKLM_CLR_MCLR_tHLI_JAK.m and power_empirical_mKLM_CLR_MCLR_tHLI_JAK.m. The first generates size tables, and the second generates power curves for the simulated data, which is based on the Angrist and krueger (1991) dataset. The STATA file creates the simulated dataset from the original dataset.
 
